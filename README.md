@@ -7,16 +7,8 @@
 
 With a solid foundation in both front-end and back-end technologies, I strive to create seamless and efficient web applications that solve real-world problems. My journey in coding started out of curiosity and has evolved into a passion for crafting intuitive and dynamic user experiences.
 
-🔧 **Skills and Expertise:**
-- **Front-End**: HTML, CSS, JavaScript (ES6+), React
-- **Back-End**: Node.js, Express, Fastify
-- **Database**: MongoDB, PostgreSQL
-- **Tools and Libraries**: Lodash, Chart.js, next.js, there.js, d3.js, Webpack
-- **Design Patterns**: MVC, Publisher-Subscriberm MVVM, Observer Pattern
 
 ---
-
-🎯 **What I Bring to the Table:**
 - **Problem-Solver**: I thrive on tackling complex challenges and finding innovative solutions.
 - **Detail-Oriented**: Attention to detail ensures that my code is clean, maintainable, and efficient.
 - **Collaborative**: I enjoy working in teams and believe that great products are built through collaboration and open communication.
