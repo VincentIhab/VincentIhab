@@ -1,12 +1,7 @@
-
-
-👋 Hi there! I'm VINCENT 
-
- **Full-Stack JavaScript Developer | Passionate about Building Impactful Solutions*🚀*
+ I'm VINCENT Full-Stack JavaScript Developer | Passionate about Building Impactful Solutions*🚀*
 ---
 
 With a solid foundation in both front-end and back-end technologies, I strive to create seamless and efficient web applications that solve real-world problems. My journey in coding started out of curiosity and has evolved into a passion for crafting intuitive and dynamic user experiences.
-
 
 ---
 - **Problem-Solver**: I thrive on tackling complex challenges and finding innovative solutions.
