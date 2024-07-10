@@ -1,10 +1,9 @@
-Here's a creative and professional GitHub bio that should make a great impression and showcase your potential as a full-stack JavaScript developer:
 
----
 
 👋 Hi there! I'm VINCENT 
 
  **Full-Stack JavaScript Developer | Passionate about Building Impactful Solutions*🚀*
+---
 
 With a solid foundation in both front-end and back-end technologies, I strive to create seamless and efficient web applications that solve real-world problems. My journey in coding started out of curiosity and has evolved into a passion for crafting intuitive and dynamic user experiences.
 
@@ -14,6 +13,8 @@ With a solid foundation in both front-end and back-end technologies, I strive to
 - **Database**: MongoDB, PostgreSQL
 - **Tools and Libraries**: Lodash, Chart.js, next.js, there.js, d3.js, Webpack
 - **Design Patterns**: MVC, Publisher-Subscriberm MVVM, Observer Pattern
+
+---
 
 🎯 **What I Bring to the Table:**
 - **Problem-Solver**: I thrive on tackling complex challenges and finding innovative solutions.
