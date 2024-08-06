@@ -5,5 +5,3 @@ With a solid foundation in both front-end and back-end technologies, I strive to
 - **Detail-Oriented**: Attention to detail ensures that my code is clean, maintainable, and efficient.
 - **Collaborative**: I enjoy working in teams and believe that great products are built through collaboration and open communication.
 - **Continuous Learner**: Always staying updated with the latest technologies and best practices in the industry.
-
-
